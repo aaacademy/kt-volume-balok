@@ -1,2 +1,12 @@
-# kt-volume-balok
-Belajar dengan senseku tercinta &lt;3 untuk membuat aplikasi menghitung volume balok dengan kotlin
+# Belajar
+
+### Screen Shoot App
+![Fragment](volume-balok.gif)
+
+## Materi
+Segera akan ditulis....
+
+## Thanks to
+- [x] Allah
+- [x] [Sense Martin](https://github.com/martinputra) 🤗
+- [x] Sumber referensi (Dicoding - Codepolitan) 
